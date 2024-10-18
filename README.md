@@ -29,9 +29,8 @@ My interests
 
 <h5 align="left">Connect with Me</h5>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/dawit-shewangzaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dawit-shewangzaw/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/dave051621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dave051621/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/https://www.hackerrank.com/profile/dave051621" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerrank.com/profile/dave051621" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dawit-shewangzaw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dawit-shewangzaw/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/dave051621/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/dave051621/" height="30" width="40" /></a>
 </p>
 
 💻 My Tech Stack :-
