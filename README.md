@@ -21,11 +21,12 @@ My interests
 👯 I’m looking to collaborate on
 - Web-development
 
-👨‍💻 Personal webiste [**Portfolio**](https://dawitshewangzaw.netlify.app/)
+👨‍💻 Personal webiste [**Portfolio**](https://dave-portfolio-red.vercel.app/)
+
 
 📫 How to reach me [**dave051621@gmail**](dave051621@gmail.com)
 
-📄 Know about my experiences [**Resume**](https://www.dropbox.com/scl/fi/qihdwqwrpmdklw94aj94d/Dawit-Shewangaw-CV.pdf?rlkey=4zvxojtoh68o215zf8uzfmtud&e=1&dl=0)
+📄 Know about my experiences [**Resume**][Dawit_Shewangzaw.pdf](https://github.com/user-attachments/files/25543899/Dawit_Shewangzaw.pdf)
 
 <h5 align="left">Connect with Me</h5>
 <p align="left">
